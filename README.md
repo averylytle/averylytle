@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on an API project to track connections, using SOLID design principles, Clean Architecture, and unit tests. I'm learning how to implement enterprise-level authentication and authorization, and how to use cached API data using Redis to improve speed and UX.
+- 🌱 I’m currently learning Clean Architecture, SOLID principles, TDD, and API design using .NET API Core 8.
+- 🤔 I’m looking for help with designing enterprise applications
+
+😄 Pronouns: he/him/his
